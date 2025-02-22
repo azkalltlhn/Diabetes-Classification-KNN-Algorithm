@@ -1,1 +1,1 @@
-# Diabetes-Classification-KNN-Algorithm
+# Diabetes Classification KNN Algorithm

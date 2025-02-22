@@ -35,7 +35,7 @@ Understanding diabetes risk factors is crucial for early detection and preventio
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/azkalltlhn/Gradient_Boosting_Classifier.git
+   git clone https://github.com/azkalltlhn/Diabetes-Classification-KNN-Algorithm.git
 
 2. **Install the required dependencies::**
    ```bash
